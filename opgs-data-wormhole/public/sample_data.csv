@@ -1,0 +1,71 @@
+Site,Year,Region,Users,Trainings
+Health Canada - Ottawa,2019,Ontario,42,187
+Health Canada - Ottawa,2020,Ontario,45,201
+Health Canada - Ottawa,2021,Ontario,50,243
+Health Canada - Ottawa,2022,Ontario,53,268
+Health Canada - Ottawa,2023,Ontario,58,312
+Service Canada - Montreal,2019,Quebec,38,154
+Service Canada - Montreal,2020,Quebec,41,178
+Service Canada - Montreal,2021,Quebec,47,209
+Service Canada - Montreal,2022,Quebec,49,225
+Service Canada - Montreal,2023,Quebec,55,271
+ESDC - Gatineau,2019,Quebec,29,112
+ESDC - Gatineau,2020,Quebec,31,128
+ESDC - Gatineau,2021,Quebec,34,149
+ESDC - Gatineau,2022,Quebec,36,163
+ESDC - Gatineau,2023,Quebec,40,198
+CRA - Vancouver,2019,British Columbia,55,234
+CRA - Vancouver,2020,British Columbia,58,256
+CRA - Vancouver,2021,British Columbia,62,289
+CRA - Vancouver,2022,British Columbia,67,318
+CRA - Vancouver,2023,British Columbia,72,365
+NRC - Edmonton,2019,Alberta,33,143
+NRC - Edmonton,2020,Alberta,35,159
+NRC - Edmonton,2021,Alberta,38,178
+NRC - Edmonton,2022,Alberta,41,197
+NRC - Edmonton,2023,Alberta,46,231
+Statistics Canada - Winnipeg,2019,Manitoba,27,98
+Statistics Canada - Winnipeg,2020,Manitoba,29,112
+Statistics Canada - Winnipeg,2021,Manitoba,32,134
+Statistics Canada - Winnipeg,2022,Manitoba,34,148
+Statistics Canada - Winnipeg,2023,Manitoba,38,171
+PHAC - Halifax,2019,Nova Scotia,22,87
+PHAC - Halifax,2020,Nova Scotia,24,99
+PHAC - Halifax,2021,Nova Scotia,26,112
+PHAC - Halifax,2022,Nova Scotia,28,124
+PHAC - Halifax,2023,Nova Scotia,31,145
+RCMP - Regina,2019,Saskatchewan,18,74
+RCMP - Regina,2020,Saskatchewan,19,81
+RCMP - Regina,2021,Saskatchewan,21,93
+RCMP - Regina,2022,Saskatchewan,23,106
+RCMP - Regina,2023,Saskatchewan,26,121
+Transport Canada - Fredericton,2019,New Brunswick,15,62
+Transport Canada - Fredericton,2020,New Brunswick,16,68
+Transport Canada - Fredericton,2021,New Brunswick,18,78
+Transport Canada - Fredericton,2022,New Brunswick,19,85
+Transport Canada - Fredericton,2023,New Brunswick,22,101
+DFO - St. John's,2019,Newfoundland and Labrador,13,54
+DFO - St. John's,2020,Newfoundland and Labrador,14,61
+DFO - St. John's,2021,Newfoundland and Labrador,16,70
+DFO - St. John's,2022,Newfoundland and Labrador,17,78
+DFO - St. John's,2023,Newfoundland and Labrador,19,91
+GNWT - Yellowknife,2019,Northwest Territories,8,31
+GNWT - Yellowknife,2020,Northwest Territories,9,36
+GNWT - Yellowknife,2021,Northwest Territories,10,42
+GNWT - Yellowknife,2022,Northwest Territories,11,48
+GNWT - Yellowknife,2023,Northwest Territories,12,55
+Yukon Gov - Whitehorse,2019,Yukon,6,24
+Yukon Gov - Whitehorse,2020,Yukon,7,29
+Yukon Gov - Whitehorse,2021,Yukon,8,34
+Yukon Gov - Whitehorse,2022,Yukon,8,37
+Yukon Gov - Whitehorse,2023,Yukon,10,45
+NTI - Iqaluit,2019,Nunavut,5,19
+NTI - Iqaluit,2020,Nunavut,5,22
+NTI - Iqaluit,2021,Nunavut,6,26
+NTI - Iqaluit,2022,Nunavut,7,31
+NTI - Iqaluit,2023,Nunavut,8,37
+PEI Gov - Charlottetown,2019,Prince Edward Island,11,45
+PEI Gov - Charlottetown,2020,Prince Edward Island,12,51
+PEI Gov - Charlottetown,2021,Prince Edward Island,13,57
+PEI Gov - Charlottetown,2022,Prince Edward Island,14,63
+PEI Gov - Charlottetown,2023,Prince Edward Island,16,74
